@@ -19,7 +19,10 @@ class Solution {
         int vis[V]={0};
         vis[0]=1;
         vector<int> v;
-        dfs(vis,adj,v,0);
+        for(int i=0;i<V;i++){
+            dfs(vis,adj,v,0);
+        }
+        
         return v;
     }
 };

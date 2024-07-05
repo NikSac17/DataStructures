@@ -1,0 +1,130 @@
+100 Days of Code Challenge
+
+I have started this challenge on 20th June, to upskill my DSA skills. I already revised almost all DSA Concepts in past 3 months. So level of #100dayscodechallenge of DSA Problems will be high enough.
+I am IIT Hyderabad passout of 2021 batch in "Materials Science". I started coding in 4th year when placement season started, with only basic experience in C++. That time I was not able to master my skills. Though I was able to switch to @Adobe in May 2022. Currently I am working as Software Engineer 2. My goal is to master DSA and System Design. I am also intersted in Machine Learning.
+Few Resources which I will we following-
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
+https://neetcode.io/practice
+
+Day 0 - Warmup Problems: 20June
+https://leetcode.com/problems/3sum/description/
+https://leetcode.com/problems/4sum/description/
+
+Day 1 - Two Pointers + Sliding Window - 21June
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/ - Interesting
+https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+https://leetcode.com/problems/max-consecutive-ones-iii/description/
+https://leetcode.com/problems/binary-subarrays-with-sum/description/ - Slight Tricky
+https://leetcode.com/problems/longest-repeating-character-replacement/description/
+
+Day 2 - Sliding Window - 22June
+https://leetcode.com/problems/count-number-of-nice-subarrays/description/
+https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/
+https://leetcode.com/problems/subarrays-with-k-different-integers/description/
+https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/
+https://leetcode.com/problems/minimum-window-substring/description/
+
+Day 3 - Sliding Window - 23June
+
+https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/
+https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
+https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/
+https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+https://leetcode.com/problems/get-equal-substrings-within-budget/
+
+Day 4 - Sliding Window + Binary Search - 24June
+https://leetcode.com/problems/subarray-product-less-than-k
+https://leetcode.com/problems/minimum-size-subarray-sum
+https://leetcode.com/problems/fruit-into-baskets
+https://leetcode.com/problems/search-insert-position
+https://leetcode.com/problems/squares-of-a-sorted-array
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+https://leetcode.com/problems/find-peak-element
+https://leetcode.com/problems/search-in-rotated-sorted-array
+https://leetcode.com/problems/koko-eating-bananas
+
+Day 5 - Binary Search + Matrix (BFS/DFS) -25June
+https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets
+https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+https://leetcode.com/problems/kth-missing-positive-number/ - Not a easy problem
+https://leetcode.com/problems/number-of-islands/
+https://leetcode.com/problems/max-area-of-island/
+
+Day 6 - Binary Search + Matrix (BFS/DFS) - 26June
+
+https://leetcode.com/problems/magnetic-force-between-two-balls - Similar to aggressive cows
+https://geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1
+https://leetcode.com/problems/split-array-largest-sum - Similar to Allocate Books and Painters Partition
+https://leetcode.com/problems/number-of-provinces
+https://leetcode.com/problems/surrounded-regions
+https://leetcode.com/problems/number-of-enclaves
+https://leetcode.com/problems/same-tree
+https://leetcode.com/problems/symmetric-tree
+https://leetcode.com/problems/maximum-depth-of-binary-tree
+https://leetcode.com/problems/balanced-binary-tree
+https://leetcode.com/problems/minimum-depth-of-binary-tree
+
+Day 7 - Binary Search + Trees - 27June
+https://leetcode.com/problems/invert-binary-tree
+https://leetcode.com/problems/binary-tree-paths
+https://leetcode.com/problems/find-center-of-star-graph
+https://leetcode.com/problems/find-a-peak-element-ii
+
+Day 8 of #100daysofcoding - Trees - 28June
+
+Leaves related problem:-
+https://leetcode.com/problems/sum-of-left-leaves/
+https://leetcode.com/problems/leaf-similar-trees/
+https://leetcode.com/problems/deepest-leaves-sum/
+https://leetcode.com/problems/delete-leaves-with-a-given-value/
+
+Day 9 of #100DaysOfCode - Binary Tree - 29June
+Solved Questions Asked in @Microsoft
+
+https://leetcode.com/problems/validate-binary-search-tree
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+Similar Question as above - (Idea is to convert tree to undirected graph)
+https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected
+https://geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1
+https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+
+Day 10 of #100DaysOfCode - Binary Tree - 30June
+All questions asked in @Microsoft
+
+https://leetcode.com/problems/binary-tree-maximum-path-sum/
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+https://leetcode.com/problems/diameter-of-binary-tree/
+https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
+https://leetcode.com/problems/distribute-coins-in-binary-tree/
+
+Day 11 of #100daysofcodechallenge - 1July
+
+Solved few BST Problems:
+https://leetcode.com/problems/three-consecutive-odds/ - Today's DCC
+https://leetcode.com/problems/insert-into-a-binary-search-tree/
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
+Day 12 of #100daysofcodechallenge - 2July
+
+https://leetcode.com/problems/intersection-of-two-arrays-ii/ - Today's DCC
+https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+https://leetcode.com/problems/binary-search-tree-iterator/
+https://geeksforgeeks.org/problems/predecessor-and-successor/1
+
+Day 13 of #100DaysOfCode -3July
+
+Had accident in morning not able to solve much
+
+https://leetcode.com/problems/add-one-row-to-tree/
+https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+
+Day 14 of #100DaysOfCode Binary Tree - 4July
+
+https://leetcode.com/problems/merge-nodes-in-between-zeros/ - Today's DCC
+https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+https://geeksforgeeks.org/problems/burning-tree/1
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/

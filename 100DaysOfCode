@@ -1,5 +1,3 @@
-100 Days of Code Challenge
-
 I have started this challenge on 20th June, to upskill my DSA skills. I already revised almost all DSA Concepts in past 3 months. So level of #100dayscodechallenge of DSA Problems will be high enough.
 I am IIT Hyderabad passout of 2021 batch in "Materials Science". I started coding in 4th year when placement season started, with only basic experience in C++. That time I was not able to master my skills. Though I was able to switch to @Adobe in May 2022. Currently I am working as Software Engineer 2. My goal is to master DSA and System Design. I am also intersted in Machine Learning.
 Few Resources which I will we following-
@@ -144,7 +142,17 @@ https://leetcode.com/problems/path-sum/
 https://leetcode.com/problems/delete-leaves-with-a-given-value/
 https://leetcode.com/problems/invert-binary-tree/
 
-Done With Trees. Will be solving random questions of it, in upcoming days. Will start recursion today.
+Done With Trees. Will be solving random questions of it, in upcoming days. Will start recursion and Linked List (most easisest topic of DSA) today .
+
+https://www.geeksforgeeks.org/problems/subset-sums2234/1
+https://leetcode.com/problems/subsets-ii/
+https://leetcode.com/problems/combination-sum/
+
+Fast Pointer Slow Pointer(Cycle or middle)
+https://leetcode.com/problems/linked-list-cycle/
+https://leetcode.com/problems/middle-of-the-linked-list/
+https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+https://leetcode.com/problems/linked-list-cycle-ii/
 
 Day 17 of #100DaysOfCode Recursion + Linked List- 7July
 

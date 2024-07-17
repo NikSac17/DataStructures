@@ -183,3 +183,110 @@ Starting DP Revision from today-
 Will be writing all 3 recursive, memoization and tabulation solution.
 
 https://leetcode.com/problems/house-robber/
+https://leetcode.com/problems/house-robber-ii/
+https://leetcode.com/problems/longest-common-subsequence/
+
+Day 19 of #100DaysOfCode Dynamic Programming (DP on strings)- 9July
+
+https://leetcode.com/problems/longest-palindromic-subsequence/
+https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+https://leetcode.com/problems/delete-operation-for-two-strings/
+https://leetcode.com/problems/shortest-common-supersequence/
+
+Day 20 of #100DaysOfCode Dynamic Programming (DP on strings)- 10July
+
+https://leetcode.com/problems/distinct-subsequences/
+https://leetcode.com/problems/edit-distance/
+https://leetcode.com/problems/wildcard-matching/
+
+Day 21 of #100DaysOfCode Dynamic Programming (DP on subsequences)- 11July
+
+https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
+https://leetcode.com/problems/partition-equal-subset-sum/
+https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1
+https://www.naukri.com/code360/problems/partitions-with-given-difference_3751628
+https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1
+https://leetcode.com/problems/coin-change/
+
+Solved few questions from @Microsoft Interview Experiences from GFG
+
+https://leetcode.com/problems/spiral-matrix/
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+
+Also revised Merge Sort
+https://leetcode.com/problems/sort-an-array/
+
+Day 22 of #100DaysOfCode Dynamic Programming (DP on subsequences + DP on LIS)- 12July
+
+https://www.naukri.com/code360/problems/count-inversions_615 (Implementation of Merge Sort)
+https://leetcode.com/problems/target-sum/
+https://leetcode.com/problems/coin-change-ii/
+https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1
+
+DP On LIS:
+https://leetcode.com/problems/longest-increasing-subsequence/
+
+Few Interval Problems:
+https://leetcode.com/problems/insert-interval/
+https://leetcode.com/problems/merge-intervals/
+
+Day 23 of #100DaysOfCode- 13July
+
+https://leetcode.com/problems/rotate-image/
+https://leetcode.com/problems/set-matrix-zeroes/ - Not able to get the O(1) space solution
+
+https://www.geeksforgeeks.org/problems/implement-stack-using-array/1
+https://www.geeksforgeeks.org/problems/implement-queue-using-array/1
+
+https://leetcode.com/problems/generate-parentheses/
+
+Started Bit Manipulation from - https://www.youtube.com/playlist?list=PLgUwDviBIf0rnqh8QsJaHyIX7KUiaPUv7 (Topic Which I ingored the most)
+
+https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1
+https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1
+
+Day 24 of #100DaysOfCode- (Bit Manipulation) 14July
+
+https://leetcode.com/problems/power-of-two/
+https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
+https://leetcode.com/problems/subsets/ - Using Power Set Method
+https://leetcode.com/problems/single-number/
+https://leetcode.com/problems/single-number-ii/
+https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1
+
+https://leetcode.com/problems/lru-cache/
+
+Day 25 of #100DaysOfCode- (Arrays) 15July
+
+https://www.geeksforgeeks.org/problems/second-largest3735/1 -Slight Tricky
+https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/ -Not as simple as it seems
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+https://leetcode.com/problems/rotate-array/
+https://leetcode.com/problems/move-zeroes/
+https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1
+https://leetcode.com/problems/intersection-of-two-arrays-ii/
+
+https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
+https://leetcode.com/problems/majority-element/ - Moore's Voting Algo (Not Intutive)
+https://leetcode.com/problems/maximum-subarray/ - Kadane's Algo
+https://leetcode.com/problems/rearrange-array-elements-by-sign/
+https://leetcode.com/problems/next-permutation/
+https://leetcode.com/problems/longest-consecutive-sequence/
+
+Day 26 of #100DaysOfCode- (Not able to do much today due to office work) 16July
+
+https://leetcode.com/problems/subarray-sum-equals-k/
+https://leetcode.com/problems/count-primes/ -Sieve of Eratosthenes
+https://leetcode.com/problems/product-of-array-except-self/
+https://leetcode.com/problems/triangle/
+https://leetcode.com/problems/minimum-path-sum/
+
+Day 27 of #100DaysOfCode- (DP + Stacks) 17July
+
+Also started https://docs.google.com/spreadsheets/d/1PHVvpN5HJyGuFoSPaZAvrQaAbU2LaHyq/edit?gid=1543872572#gid=1543872572, this sheet for practice
+
+https://leetcode.com/problems/longest-common-subsequence/
+https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1
+https://leetcode.com/problems/next-greater-element-ii/
+https://www.interviewbit.com/problems/nearest-smaller-element/
+https://leetcode.com/problems/edit-distance/
